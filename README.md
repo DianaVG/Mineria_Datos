@@ -10,5 +10,11 @@
 
 - [Ejercicios de Python (básicos)](https://github.com/DianaVG/Mineria_Datos/blob/main/Ej_Python_1877498.ipynb)
 
+- [Práctica 1-Limpieza de datos](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Ej_Limpieza_Equipo4.ipynb)
+
+- [Primer Avance PIA](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Avance1_PIA_Equipo4.ipynb)
+
+
+
 
 
