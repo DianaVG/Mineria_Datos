@@ -25,5 +25,5 @@
 
 ## Entrega final
 
--[Notebook final](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Notebookfinal_Equipo4.ipynb)
+- [Notebook final](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Notebookfinal_Equipo4.ipynb)
 
