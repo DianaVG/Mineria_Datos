@@ -23,5 +23,7 @@
 - [Segundo avance PIA (Corregido)](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/AvancePIA_II_Grupo01_Equipo4_Corregido.ipynb) 
 - [Ejercicio de técnicas de minería](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Tecnicas_Equipo4.ipynb)
 
+## Entrega final
 
+-[Notebook final](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Notebookfinal_Equipo4.ipynb)
 
