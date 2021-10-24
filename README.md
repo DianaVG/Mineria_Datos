@@ -21,10 +21,10 @@
 - [Práctica II: Visualización de datos](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Visualizacion_Equipo4.ipynb)
 - [Segundo avance PIA](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/AvancePIA_II_Grupo01_Equipo4_.ipynb) 
 - [Segundo avance PIA (Corregido)](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/AvancePIA_II_Grupo01_Equipo4_Corregido.ipynb) 
-- [Ejercicio de técnicas de minería](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Tecnicas_Equipo4.ipynb)
 
 ## Fase 3
 
+- [Ejercicio de técnicas de minería](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Tecnicas_Equipo4.ipynb)
 - [Notebook final](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Notebookfinal_Equipo4.ipynb)
 - [PIA-póster](https://github.com/DianaVG/Mineria_Datos/blob/main/Mineri%CC%81a%20de%20datos_PIA_Equipo4.pdf)
 
